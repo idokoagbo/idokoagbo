@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @judgeidoko
+- 👋 Hi, I’m @idokoagbo
 - 👀 I’m interested in mobile app development with flutter and backend development with nodeJs & php (Laravel)
 - 🌱 I’m currently learning Python, Solidity, NFTs & Blockchain development
 - 💞️ I’m looking to collaborate on projects with blockchain technology & dApps. 
